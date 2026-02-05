@@ -13,6 +13,7 @@ student_name ="lorean"
 group_name ="python"
 student_Nic =200266048
 
-output=f'student id: is {student_Id}\nstudent name {student_name}\ngroup name {group_name}\nstudent NIC no {student_Nic}'
+output=f'student id: {student_Id}\nstudent name: {student_name}\ngroup name: {group_name}\nstudent NIC no: {student_Nic}'
 print(output)
+
 
