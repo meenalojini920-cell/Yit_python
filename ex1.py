@@ -1,6 +1,7 @@
 print("*****************")
 print( "Employee Details")
 print("*****************")
+print("")
 first_name="Yogan"
 last_name="seelan"
 Email="yohaseelan@gmail.com"
@@ -9,6 +10,6 @@ Basic_salary=150000
 print("full name\t:",first_name+last_name)
 print("Email    \t:",Email)
 print("Bacis salary\t:",Basic_salary)
-
+print("")
 print("*****************")
 
